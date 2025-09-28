@@ -11,6 +11,8 @@ pip install pyat5
 pyinstaller --onefile --windowed --icon="py.ico" --add-data="py.ico;." 파일명
 입력 dist폴더에 exe형태로 실행파일이 있는 것이 확인 가능합니다.
 
+또한 준비되어있는 간단한 파이썬 커리큘럼을 JSON형태로 준비되어있으니 불러오기로 가져와 프로그램 내부기능인 원하는 시작날짜를 조정을 통해 사용 가능합니다.
+
 💻 기술 스택 (Technology Stack)
 이 프로그램은 다음의 기술들을 기반으로 만들어졌습니다.
 
