@@ -1,0 +1,160 @@
+{
+    "2025-09-28": [
+        {
+            "title": "Print 개념 학습",
+            "desc": "CodeTree Print(출력) 기초 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-output-basics/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/78",
+            "completed": false
+        }
+    ],
+    "2025-09-29": [
+        {
+            "title": "If, if-else 개념 학습",
+            "desc": "CodeTree 조건문 기초 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-conditionals-basics/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181944",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 2",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/856",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 3",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/120909",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 4",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/880",
+            "completed": false
+        }
+    ],
+    "2025-09-30": [
+        {
+            "title": "For/while 개념 학습",
+            "desc": "CodeTree 반복문 기초 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-loop-basics/intro",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/120825",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 2",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181950",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 3",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/871",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 4",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/872",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 5",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/312",
+            "completed": false
+        }
+    ],
+    "2025-10-01": [
+        {
+            "title": "논리연산 개념 학습",
+            "desc": "CodeTree 복합 조건문 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-compound-conditions/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/333",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 2",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181917",
+            "completed": false
+        }
+    ],
+    "2025-10-02": [
+        {
+            "title": "리스트, 메서드 개념 학습",
+            "desc": "CodeTree 1차원 배열 기초 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-1d-array-basics/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/69",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 2",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181897",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 3",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/346",
+            "completed": false
+        }
+    ],
+    "2025-10-03": [
+        {
+            "title": "문자열 개념 학습",
+            "desc": "CodeTree 문자열 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-string/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/30/lessons/181940",
+            "completed": false
+        }
+    ],
+    "2025-10-04": [
+        {
+            "title": "continue, break 개념 학습",
+            "desc": "CodeTree 조건에 따른 반복 학습",
+            "link": "https://www.codetree.ai/ko/trails/complete/curated-cards/nl-pre-conditional-loops/introduction",
+            "completed": false
+        },
+        {
+            "title": "문제 풀이 1",
+            "desc": "프로그래머스 문제 풀이",
+            "link": "https://school.programmers.co.kr/learn/courses/2/lessons/313",
+            "completed": false
+        }
+    ]
+}
